@@ -1,0 +1,5 @@
+
+CLINK F:\Workspace\git\fivem>"F:\Program Files\Python27\python.exe" -m pip freeze 
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+ply==3.11
